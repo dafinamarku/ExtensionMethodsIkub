@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Ikub7\Ikub7\bin\Debug\Ikub7.exe.config
+C:\Users\user\source\repos\Ikub7\Ikub7\bin\Debug\Ikub7.exe
+C:\Users\user\source\repos\Ikub7\Ikub7\bin\Debug\Ikub7.pdb
+C:\Users\user\source\repos\Ikub7\Ikub7\obj\Debug\Ikub7.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Ikub7\Ikub7\obj\Debug\Ikub7.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Ikub7\Ikub7\obj\Debug\Ikub7.exe
+C:\Users\user\source\repos\Ikub7\Ikub7\obj\Debug\Ikub7.pdb
